@@ -8,6 +8,7 @@
   )
 )
 
+
 ;; Data Maps
 (define-map usage-records uint {
   asset-id: uint,
